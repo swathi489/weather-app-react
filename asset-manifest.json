@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http.//swathi489.github.io/weather-app-react/static/css/main.1507bdd3.css",
+    "main.js": "/http.//swathi489.github.io/weather-app-react/static/js/main.ae5e3afc.js",
+    "static/media/sunrise.jpeg": "/http.//swathi489.github.io/weather-app-react/static/media/sunrise.7e4268b013901947cee5.jpeg",
+    "index.html": "/http.//swathi489.github.io/weather-app-react/index.html",
+    "main.1507bdd3.css.map": "/http.//swathi489.github.io/weather-app-react/static/css/main.1507bdd3.css.map",
+    "main.ae5e3afc.js.map": "/http.//swathi489.github.io/weather-app-react/static/js/main.ae5e3afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1507bdd3.css",
+    "static/js/main.ae5e3afc.js"
+  ]
+}
